@@ -1,4 +1,4 @@
-import { Search, UserRound } from "lucide-react";
+import { UserRound } from "lucide-react";
 
 export function Navigation() {
     return (
