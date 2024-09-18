@@ -123,7 +123,7 @@ export function JsonBuilder() {
                 <div className="w-full md:w-[50%] flex flex-col items-center justify-center">
                     <form >
                         <label className="w-full text-gray-200 font-semibold text-md">
-                            Criar nó raiz:
+                            Nó raiz:
                             <input
                                 type="text"
                                 onChange={(e) => setNewNodeName(e.target.value)}
